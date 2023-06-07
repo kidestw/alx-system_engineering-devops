@@ -12,3 +12,4 @@ mv /tmp/betty /tmp/my_first_directory moves the file betty from /tmp/ to /tmp/my
 rm /tmp/my_first_directory will remove the file betty frommy_first_directory which is inside /tmp/
 rmdir /tmp/my_first_directory will delete the directory  my_first_directory 
 cd - will change the working directory to the previous one
+ls -al . .. /boot will list all files in the current directory, the parent directory and the /bbot directory in long format
