@@ -15,3 +15,5 @@ cd - will change the working directory to the previous one
 ls -al . .. /boot will list all files in the current directory, the parent directory and the /boot directory in long format
 file /tmp/iamafile will display the type of the file named iamafile inside  the /tmp/ directory
 ln -s /bin/ls __ls__ creates a symbolic link to /bin/ls named __ls__ in the current working directory
+
+cp -rua *.html copies all html files from the current directory to the parent directory.
