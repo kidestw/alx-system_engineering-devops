@@ -21,3 +21,4 @@ mv [[:upper:]]* /tmp/u moves all files beginning with an uppercase letter to the
 rm *~ deletes all files in the current working directory that end with ~
 mkdir -p welcome/to/school creates directories welcome/, welcome/to/ and welcome/to/school/
 ls -map lists all files and directories of the current directory separated by commas
+ you can create a magic code that can be used with the command file to detect Schhol data files.
