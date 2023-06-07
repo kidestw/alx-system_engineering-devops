@@ -11,3 +11,4 @@ mkdir tmp/my_first_directory will create my_first_directory inside /tmp/ directo
 mv /tmp/betty /tmp/my_first_directory moves the file betty from /tmp/ to /tmp/my_first_directory
 rm /tmp/my_first_directory will remove the file betty frommy_first_directory which is inside /tmp/
 rmdir /tmp/my_first_directory will delete the directory  my_first_directory 
+cd - will change the working directory to the previous one
