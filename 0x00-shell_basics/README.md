@@ -7,3 +7,4 @@ ls -na will display current directory contents with
   Long format
   with user and group IDs displayed numerically
   And hidden files
+mkdir tmp/my_first_directory will create my_first_directory inside /tmp/ directory
