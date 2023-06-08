@@ -12,3 +12,4 @@ chmod --reference=x sets the mode of a file the same as x
 chmod -R +X . adds execute permission to all subdirectories of current directory
 mkdir -m 751 dir_name creates a directory with 751 in the permissions
 chgrp changes the group owner of a specified file
+chown vincent:staff * changes the owner to vincent and group owner to staff
