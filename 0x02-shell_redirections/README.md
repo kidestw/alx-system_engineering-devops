@@ -1,0 +1,1 @@
+Shell commands that will display beginning and ending of files, search for specific words and delete certain elements from file. includes shell commands that enable to display block ormultiple lines of contents of a file.  redirections and setting certain outputs to documents are also included.
